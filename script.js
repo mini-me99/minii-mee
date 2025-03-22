@@ -3,7 +3,7 @@ const products = [
         id: 1,
         name: 'Cute T-Shirt',
         price: 19.99,
-        images: ["C:\Users\11\Desktop\2\images\IMG-20250312-WA0048.jpg", 'product1-2.jpg']
+        images: ['product1-1.jpg', 'product1-2.jpg']
     },
     {
         id: 2,
